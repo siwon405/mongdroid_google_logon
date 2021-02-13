@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87493953990",
+    "firebase_url": "https://siwon-a6dbc-default-rtdb.firebaseio.com",
+    "project_id": "siwon-a6dbc",
+    "storage_bucket": "siwon-a6dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87493953990:android:951ad9d4cd7fbc08a9cac7",
+        "android_client_info": {
+          "package_name": "com.on.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87493953990-bjc1onk8a6v247qgl8ipo0kv8phndr0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Hkx8QyYrj2o8l13PtI-MzLExwh2evsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87493953990-bjc1onk8a6v247qgl8ipo0kv8phndr0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
